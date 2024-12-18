@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Biblioteca Comics Simple",  # Titulo del módulo
-    'summary': "Gestionar comics :) (Version simple)",  # Resumen de la funcionaliadad
+    'name': "Biblioteca Comics Simple",  
+    'summary': "Gestionar comics :) (Version simple)", 
     'description': """
 Gestor de bibliotecas (Version Simple)
 ==============
@@ -9,8 +9,8 @@ Gestor de bibliotecas (Version Simple)
 
     #Indicamos que es una aplicación
     'application': True,
-    'author': "Sergi García",
-    'website': "http://apuntesfpinformatica.es",
+    'author': "Joan Ferre,
+    'website': "https://github.com/Joanfv05",
     'category': 'Tools',
     'version': '0.1',
     'depends': ['base'],

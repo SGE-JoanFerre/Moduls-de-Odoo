@@ -4,8 +4,8 @@
     'description': """
         Aplicació per gestionar els cicles formatius i mòduls en un institut.
     """,
-    'author': "My Company",
-    'website': "https://www.mycompany.com",
+    'author': "Joan Ferre",
+    'website': "https://github.com/Joanfv05",
     'category': 'Custom',
     'version': '0.1',
     'depends': ['base'],

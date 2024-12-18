@@ -1,7 +1,7 @@
 {
     'name': 'Hospital Management',
     'version': '1.0',
-    'author': 'Joan',
+    'author': 'Joan Ferre',
     'category': 'Healthcare',
     'summary': 'Gestió de pacients i metges d’un hospital',
     'description': """
